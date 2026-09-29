@@ -1,0 +1,36 @@
+HUMAN RESOURCE ANALYTICS
+WEB SCRAPING OUTPUT
+============================================================
+
+Source Webpage:
+https://www.shrm.org/in/topics-tools/news/blogs/understanding-the-hr-lifecycle-from-hiring-to-exit
+
+Page Title:
+Understanding the HR Lifecycle: From Hiring to Exit
+
+HR HEADINGS:
+------------------------------------------------------------
+Understanding the HR Lifecycle: From Hiring to Exit
+
+HR INFORMATION:
+------------------------------------------------------------
+Select your region below to see curated info.
+
+That’s why 340,000 HR pros and 95% of the Fortune 500 turn to SHRM for expert-backed guidance, tools, and trusted answers.
+
+At SHRM26 join the global HR community that comes together not just to keep up — but to grow, connect, and move forward together. Register Today
+
+As a SHRM Member®, you’ll pave the path of your success with invaluable resources, world-class educational opportunities and premier events.
+
+Demonstrate your ability to apply HR principles to real-life situations.
+
+Demonstrate targeted competence and enhance your HR credibility.
+
+Gain a deeper understanding and develop critical skills.
+
+Demonstrate your ability to apply HR principles to real-life situations.
+
+Stay up to date with news and leverage our vast library of resources.
+
+As a SHRM Member®, you’ll pave the path of your success with invaluable resources, world-class educational opportunities and premier events.
+

@@ -1,0 +1,161 @@
+# Smart HR Analytics & Employee Attrition Prediction System
+
+## Project Overview
+
+Smart HR Analytics & Employee Attrition Prediction System is a Python-based data analytics project developed to analyze employee data and identify patterns related to employee resignation.
+
+The project applies data preprocessing, statistical analysis, probability, sampling, hypothesis testing, data visualization and machine learning to HR data.
+
+It also demonstrates CRUD operations, web scraping and exception handling as part of the Python for Data Science concepts.
+
+## Objectives
+
+- Analyze employee information and HR-related factors.
+- Identify patterns associated with employee resignation.
+- Perform statistical and probability analysis.
+- Apply sampling and hypothesis testing.
+- Visualize important HR insights.
+- Build a machine learning model for employee resignation prediction.
+- Demonstrate CRUD operations with permanent data storage.
+- Extract HR-related information using web scraping.
+- Demonstrate exception handling for common runtime errors.
+- Provide an interactive Streamlit dashboard.
+
+## Dataset
+
+The project uses an employee dataset containing information such as:
+
+- Employee ID
+- Department
+- Gender
+- Age
+- Job Title
+- Hire Date
+- Years at Company
+- Education Level
+- Performance Score
+- Monthly Salary
+- Work Hours per Week
+- Projects Handled
+- Overtime Hours
+- Sick Days
+- Remote Work Frequency
+- Team Size
+- Training Hours
+- Promotions
+- Employee Satisfaction Score
+- Resigned
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Requests
+- BeautifulSoup
+- Certifi
+- Streamlit
+- Plotly
+
+## Project Modules
+
+### Data Analysis
+
+- Dataset Loading
+- Data Exploration
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+- Statistical Analysis
+- Probability Analysis
+- Sampling and Inference
+- Hypothesis Testing
+
+### Data Visualization
+
+The project contains HR visualizations for:
+
+- Workforce distribution by department
+- Resignation rate by department
+- Resignation rate by satisfaction
+- Resignation rate by overtime
+- Average satisfaction by resignation status
+- Actual employee resignation status
+
+### Machine Learning
+
+Logistic Regression is used for employee resignation prediction.
+
+The machine learning pipeline includes:
+
+- Train-Test Split
+- One-Hot Encoding
+- StandardScaler
+- Logistic Regression
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+
+### CRUD Operations
+
+CRUD stands for:
+
+- Create
+- Read
+- Update
+- Delete
+
+CRUD records are stored separately in:
+
+`output/hr_employee_records.csv`
+
+The original analytical dataset is not modified by CRUD operations.
+
+### Web Scraping
+
+The project uses:
+
+- Requests to access a public HR webpage.
+- BeautifulSoup to parse HTML content.
+- Python file handling to save extracted HR information.
+
+The scraped information is stored in:
+
+`output/scraped_hr_information.txt`
+
+### Exception Handling
+
+The project demonstrates exception handling for:
+
+- FileNotFoundError
+- KeyError
+- ValueError
+- General Exception
+
+## Streamlit Dashboard
+
+The project includes an interactive Streamlit dashboard for exploring:
+
+- Dataset information
+- HR analytics
+- Data visualizations
+- Probability analysis
+- Sampling and inference
+- Hypothesis testing
+- Machine learning results
+- CRUD operations
+- Web scraping
+- Exception handling
+
+## How to Run
+
+### 1. Install the required libraries
+
+```bash
+pip install -r requirements.txt
